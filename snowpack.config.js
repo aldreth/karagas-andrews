@@ -3,5 +3,5 @@ module.exports = {
     public: "/",
     src: "/_dist_",
   },
-  plugins: ["@snowpack/plugin-postcss"],
+  plugins: ["@snowpack/plugin-webpack", "@snowpack/plugin-postcss"],
 };
