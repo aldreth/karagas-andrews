@@ -2,4 +2,4 @@
 @import "tailwindcss/dist/components.css";
 @import "tailwindcss/dist/utilities.css";
 
-@import "./styles/components/buttons.css";
+@import "styles/components/buttons.css";
